@@ -1,8 +1,8 @@
 //css theme variables & settings
 
-$font-family:       "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family:       "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-$code-font-family:  Menlo, Monaco, "Courier New", monospace;
+code-font-family:  Menlo, Monaco, "Courier New", monospace;
 
 $masthead-color:         #505050;
 $masthead-small-color:   #C0C0C0;
