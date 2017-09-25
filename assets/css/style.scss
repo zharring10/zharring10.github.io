@@ -121,8 +121,8 @@ pre {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: $blockquote-color;
-  border-left: .25rem solid $blockquote-border-color;
+  color: blockquote-color;
+  border-left: .25rem solid blockquote-border-color;
 
   p:last-child {
     margin-bottom: 0;
