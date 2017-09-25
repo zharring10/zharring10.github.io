@@ -9,15 +9,15 @@ html {
 }
 
 body {
-  color:            $body-color;
-  background-color: $body-background-color;
+  color:            body-color;
+  background-color: body-background-color;
 }
 
 //////////////
 // Links
 
 a {
-  color:           $link-color;
+  color:           link-color;
   text-decoration: none;
 
   strong {
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom:  .5rem;
   font-weight:    bold;
   line-height:    1.25;
-  color:          $headings-color;
+  color:          headings-color;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -66,7 +66,7 @@ p {
 }
 
 strong {
-  color: $strong-color;
+  color: strong-color;
 }
 
 
@@ -91,7 +91,7 @@ dd {
 
 code,
 pre {
-  font-family: $code-font-family;
+  font-family: code-font-family;
 }
 code {
   padding: .25em .5em;
@@ -104,7 +104,7 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  background-color: $pre-background-color;
+  background-color: pre-background-color;
 
   code {
     padding: 0;
@@ -144,18 +144,18 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid $table-border-color;
+  border: 1px solid table-border-color;
   border-collapse: collapse;
 
   td,
   th {
    padding: .25rem .5rem;
-   border: 1px solid $table-border-color;
+   border: 1px solid table-border-color;
   }
 
   tr:nth-child(odd) td,
   tr:nth-child(odd) th {
-    background-color: $table-odd-background-color;
+    background-color: table-odd-background-color;
   }
 }
 
@@ -184,14 +184,14 @@ table {
  .masthead-title {
     margin-top: 0;
     margin-bottom: 0;
-    color: $masthead-color;
+    color: masthead-color;
   
     a {
-      color: $masthead-color;
+      color: masthead-color;
     }
     
     small {
-      color: $masthead-small-color;
+      color: masthead-small-color;
       font-size: 75%;
       font-weight: 400;
       letter-spacing: 0;
@@ -221,9 +221,9 @@ table {
 
 .post-title,
 .post-title a {
-  color: $post-title-color;
+  color: post-title-color;
 }
 
 .post-date {
-  color: $post-date-color;  
+  color: post-date-color;  
 }
