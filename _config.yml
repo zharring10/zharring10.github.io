@@ -1,16 +1,5 @@
 theme: jekyll-theme-minimal
 title: Zoe Harrington
 description: Personal website
-
-# the little icon that appears in the browser window's tab
 favicon: assets/icons8-brain-32.png
-
-############# TOP NAVIGATION BAR ################
-
-# use a logo image in your nav bar.
-use_logo: true
-
-# logo image to use. logo images are constrained at 50px in height.
-logo: assets/companylogo.png
-
 ##google_analytics:
