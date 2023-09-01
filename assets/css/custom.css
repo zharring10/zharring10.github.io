@@ -15,3 +15,11 @@
 .side-links a:hover {
   text-decoration: underline; /* Add underline on hover */
 }
+
+/* Style the header link like an h1 */
+.header-link {
+  font-size: 24px; /* Adjust the font size to match your h1 */
+  font-weight: bold; /* Make the text bold like an h1 */
+  text-decoration: none; /* Remove underlines from the link */
+  color: #333; /* Set the text color to your desired color */
+}
