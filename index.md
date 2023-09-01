@@ -1,22 +1,4 @@
-##Zoe Harrington
-
-Personal Website
-
-![](https://github.com/zpmh/zpmh.github.io/blob/master/Lewis%20and%20Clark%20EW4A3577.JPG)
-
-View My GitHub Profile
-
-Welcome to GitHub Pages
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
+![placeholderimg](Lewis and Clark EW4A3577.JPG)
 
 # Header 1
 ## Header 2
