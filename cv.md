@@ -40,6 +40,9 @@ permalink: /cv/
 03.2017 Instituto Superior de Arte, Havana, Cuba  
 Alternative Spring Break 
 
+### <ins>Community Contributions</ins>
 
+since 11.2022 Mentor, [Cybermentor](https://www.cybermentor.de/index.php){:target="_blank"}  
+2022 Volunteer, [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/){:target="_blank"}
 
 
