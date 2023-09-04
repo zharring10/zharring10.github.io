@@ -18,10 +18,10 @@ permalink: /cv/
 **2015 - 2019 B.A.** Mathematics & Computer Science, Studio Art
 
 ### <ins>Grants and Fellowships</ins>
-2022 [DAAD IFI grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}
-2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})
-2015 - 2019 Scholarship from [Davis UWC Scholars Program](https://www.davisuwcscholars.org/){:target="_blank"}
-2013 - 2015 Scholarship from Deutsche Stiftung UWC for [UWCRCN](https://uwcrcn.no){:target="_blank"}
+2022 [DAAD IFI grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
+2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})  
+2015 - 2019 Scholarship from [Davis UWC Scholars Program](https://www.davisuwcscholars.org/){:target="_blank"}  
+2013 - 2015 Scholarship from Deutsche Stiftung UWC for [UWCRCN](https://uwcrcn.no){:target="_blank"}  
 
 ### <ins>Courses</ins>
 
