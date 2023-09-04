@@ -20,7 +20,7 @@ permalink: /cv/
 ### <ins>Awards and Fellowships</ins>
 2022 [DAAD IFI grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
 2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})  
-2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"} 
+2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"}  
 2018 2nd place [Lewis & Clark College Winterim](https://college.lclark.edu/programs/entrepreneurship/winterim/2018-winterim-/){:target="_blank"}, represented LC at [University of Oregon's Frontier Management Undergraduate Competition] (https://business.uoregon.edu/news/2019-new-venture-champions){:target="_blank"}  
 2016 [Anita Borg Institute/Microsoft GHC Scholarship](https://anitab.org/){:target="_blank"}  
 2016 2nd place [WeCodeHackathon Portand](https://we-code-hackathon-2016.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio){:target="_blank"}  
