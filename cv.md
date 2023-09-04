@@ -20,10 +20,12 @@ permalink: /cv/
 ### <ins>Awards and Fellowships</ins>
 2022 [DAAD IFI Master's Thesis Grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
 2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})  
-2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"}  
+2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"} 
+2018 3rd Place Student Poster at [CCSC-NW 2018](https://www.ccsc.org/northwest/2023/){:target="_blank"}  
 2018 2nd place [Lewis & Clark College Winterim](https://college.lclark.edu/programs/entrepreneurship/winterim/2018-winterim-/){:target="_blank"}   
 2016 [Anita Borg Institute/Microsoft GHC Scholarship](https://anitab.org/){:target="_blank"}  
 2016 2nd place [WeCodeHackathon Portland](https://we-code-hackathon-2016.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio){:target="_blank"}  
+2015 - 2019 [Dean's List](https://college.lclark.edu/dean/deans-list/){:target="_blank"} (7 semesters)
 2015 - 2019 Scholarship from [Davis UWC Scholars Program](https://www.davisuwcscholars.org/){:target="_blank"}  
 2013 - 2015 Scholarship from Deutsche Stiftung UWC for [UWCRCN](https://uwcrcn.no){:target="_blank"}  
 
