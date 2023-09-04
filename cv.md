@@ -25,7 +25,7 @@ permalink: /cv/
 2018 2nd place [Lewis & Clark College Winterim](https://college.lclark.edu/programs/entrepreneurship/winterim/2018-winterim-/){:target="_blank"}   
 2016 [Anita Borg Institute/Microsoft GHC Scholarship](https://anitab.org/){:target="_blank"}  
 2016 2nd place [WeCodeHackathon Portland](https://we-code-hackathon-2016.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio){:target="_blank"}  
-2015 - 2019 [Dean's List](https://college.lclark.edu/dean/deans-list/){:target="_blank"} (7 semesters)
+2015 - 2019 [Dean's List](https://college.lclark.edu/dean/deans-list/){:target="_blank"} (7 semesters)  
 2015 - 2019 Scholarship from [Davis UWC Scholars Program](https://www.davisuwcscholars.org/){:target="_blank"}  
 2013 - 2015 Scholarship from Deutsche Stiftung UWC for [UWCRCN](https://uwcrcn.no){:target="_blank"}  
 
