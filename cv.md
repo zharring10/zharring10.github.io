@@ -11,7 +11,7 @@ permalink: /cv/
 **Institute of Science and Technology Austria (ISTA)**, Vienna, Austria⋅⋅
 **since 2023 Ph.D.** candidate
 
-**Bernstein Center for Computational Neuroscience (BCCN)**, Berlin, Germany⋅⋅
+**Bernstein Center for Computational Neuroscience**, Berlin, Germany⋅⋅
 **2019-2023 M.Sc.** Computational Neuroscience
 
 **Lewis & Clark College**, Portland, OR, USA⋅⋅
