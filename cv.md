@@ -18,7 +18,7 @@ permalink: /cv/
 **2015 - 2019 B.A.** Mathematics & Computer Science, Studio Art
 
 ### <ins>Awards and Fellowships</ins>
-2022 [DAAD IFI grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
+2022 [DAAD IFI Master's Thesis Grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
 2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})  
 2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"}  
 2018 2nd place [Lewis & Clark College Winterim](https://college.lclark.edu/programs/entrepreneurship/winterim/2018-winterim-/){:target="_blank"}   
