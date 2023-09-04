@@ -11,4 +11,4 @@ permalink: /art/
 ![](assets/Harrington_06.jpg)  
 ![](assets/Harrington_09.jpg)  
 ![](assets/Harrington_10.jpg)  
-![](assets/Harrington_22 (1).jpg)
+![](assets/Harrington_22_1.jpg)
