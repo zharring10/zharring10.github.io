@@ -12,7 +12,9 @@ permalink: /art/
 ___
 ---
 
-You're Welcome, 2019
+<div style="text-align: center;"> 
+<h2>You're Welcome,</h2>
+2019 </div>
 
 **Materials:** pen, paper, bench, rejected sketches, shelf, sketchbook, video and audio recording
 Dimensions: 10 minutes video
