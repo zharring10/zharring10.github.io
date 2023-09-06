@@ -4,12 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## About
-
-WebJeda is a web designing company
-.
-.
-.
+## Contact
 
 **Disclaimer:** This website is under constant modification.
 If you find something isn't right then,
