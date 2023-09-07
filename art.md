@@ -45,6 +45,14 @@ I performed an edge detection algorithm by applying an edge detection filter to 
 
 ---
 
+## EDGE DETECTION EXPERIMENT 2
+2018
+
+![](assets/art_images/ed2/Harrington_09.jpeg) 
+![](assets/art_images/ed2/Harrington_10.JPG)  
+
+
+---
 ![](assets/Harrington_06.jpg)  
 ![](assets/Harrington_09.jpg)  
 ![](assets/Harrington_10.jpg)  
