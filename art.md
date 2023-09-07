@@ -6,7 +6,7 @@ permalink: /art/
 
 ## \[Archive\] Art Portfolio
 
-![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg)
+![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg){: loading="lazy" }
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
 
