@@ -6,7 +6,7 @@
 
 {% seo %}
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -27,7 +27,7 @@
         
         <div class="side-links">
           <a href="{{ site.baseurl }}/science/"> Science </a> <br>
-          <a href="{{ site.baseurl }}/art"> Art </a> <br>
+          <a href="{{ site.baseurl }}/art.html"> Art </a> <br>
           <a href="{{ site.baseurl }}/cv/"> CV </a> <br>
           <a href="{{ site.baseurl }}/contact/"> Contact </a> <br>
         </div>  
@@ -38,25 +38,23 @@
         {% endif %}
         -->
 
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
       </header>
       <section>
+        <h1>GitHub Flavored Markdown</h1>
 
-      {{ content }}
+        <p><em>View the <a href="http://github.github.com/github-flavored-markdown/sample_content.html">source of this content</a>.</em></p>
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+        <p>Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:</p>
+
+        <p>Roses are red<br>
+        Violets are blue</p>
+
+        <p>The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:</p>
+
+        <p>Roses are red<br><br>
+        Violets are blue</p>
+    </section>
+
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
