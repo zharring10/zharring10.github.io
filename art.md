@@ -8,7 +8,7 @@ permalink: /art/
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
 
-![](assets/art_images/y_welcome/Final_Review(2).jpg) 
+![](assets/art_images/exhibitions/Final_Review(2).jpg) 
 
 ***
 ___
