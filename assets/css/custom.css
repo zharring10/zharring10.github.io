@@ -1,3 +1,8 @@
+/* center text on art page */
+.text-center {
+  text-align: center;
+}
+
 /* Style the navigation menu */
 .side-links { 
 /*  background-color: #333;  Background color */
