@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My First Post
+title: You're Welcome
 date: 2023-09-01 12:00:00 -0400
 categories: [blog]
 ---
 ## You're Welcome,
 2019 
 
-![](../assets/art_images/y_welcome/Harrington_19.JPG){: loading="lazy" }  
-![](../assets/art_images/y_welcome/Harrington_21.jpeg){: loading="lazy" }
+![](../assets/art_images/y_welcome/Harrington_19.JPG) 
+![](../assets/art_images/y_welcome/Harrington_21.jpeg)
 
 **Materials:** pen, paper, bench, rejected sketches, shelf, sketchbook, video and audio recording  
 **Dimensions:** 10 minutes video
