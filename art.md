@@ -10,9 +10,9 @@ permalink: /art/
 
 ![](assets/art_images/exhibitions/Final_Review(2).jpg) 
 
-***
-___
+
 ---  
+
 
 ![](assets/art_images/y_welcome/Harrington_19.JPG)  
 ![](assets/art_images/y_welcome/Harrington_21.jpeg) 
