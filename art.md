@@ -24,14 +24,14 @@ permalink: /art/
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
 
-![](assets/art_images/exhibitions/Final_Review(2).jpg) 
-
+<img data-src="assets/art_images/exhibitions/Final_Review(2).jpg" alt="Description of the image">
 
 ---  
 
-
-![](assets/art_images/y_welcome/Harrington_19.JPG)  
-![](assets/art_images/y_welcome/Harrington_21.jpeg) 
+<img data-src="assets/art_images/y_welcome/Harrington_19.JPG" alt="Description of the image">
+<img data-src="assets/art_images/y_welcome/Harrington_21.jpeg" alt="Description of the image">
+<!-- ![](assets/art_images/y_welcome/Harrington_19.JPG)  
+![](assets/art_images/y_welcome/Harrington_21.jpeg) -->
 
 ## You're Welcome,
 2019 
@@ -48,10 +48,15 @@ ___
 ## EDGE DETECTION EXPERIMENT 1,
 2018
 
-![](assets/art_images/ed1/Harrington_04.JPG)  
+<img data-src="assets/art_images/ed1/Harrington_04.JPG" alt="Description of the image">
+<img data-src="assets/art_images/ed1/Harrington_05.jpeg" alt="Description of the image">
+<img data-src="assets/art_images/ed1/Harrington_06.JPG" alt="Description of the image">
+<img data-src="assets/art_images/ed1/temp.jpeg" alt="Description of the image">
+
+<!--![](assets/art_images/ed1/Harrington_04.JPG)  
 ![](assets/art_images/ed1/Harrington_05.jpeg) 
 ![](assets/art_images/ed1/Harrington_06.JPG)  
-![](assets/art_images/ed1/temp.jpeg) 
+![](assets/art_images/ed1/temp.jpeg) --> 
 
 **Materials:** Cell Image Library, Acrylic sheets, Molotow One4All Markers, cardboard  
 
@@ -64,8 +69,11 @@ I performed an edge detection algorithm by applying an edge detection filter to 
 ## EDGE DETECTION EXPERIMENT 2
 2018
 
-![](assets/art_images/ed2/Harrington_09.jpeg) 
-![](assets/art_images/ed2/Harrington_10.JPG)  
+<img data-src="assets/art_images/ed2/Harrington_09.jpeg" alt="Description of the image">
+<img data-src="assets/art_images/ed2/Harrington_10.JPG" alt="Description of the image">
+
+<!--![](assets/art_images/ed2/Harrington_09.jpeg) 
+![](assets/art_images/ed2/Harrington_10.JPG)  -->
 
 
 ---
