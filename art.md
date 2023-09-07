@@ -12,13 +12,12 @@ permalink: /art/
 
 ---  
 
-<img data-src="assets/art_images/y_welcome/Harrington_19.JPG" alt="Description of the image">
-<img data-src="assets/art_images/y_welcome/Harrington_21.jpeg" alt="Description of the image">
-<!-- ![](assets/art_images/y_welcome/Harrington_19.JPG)  
-![](assets/art_images/y_welcome/Harrington_21.jpeg) -->
 
 ## You're Welcome,
 2019 
+
+![](assets/art_images/y_welcome/Harrington_19.JPG){: loading="lazy" }  
+![](assets/art_images/y_welcome/Harrington_21.jpeg){: loading="lazy" }
 
 **Materials:** pen, paper, bench, rejected sketches, shelf, sketchbook, video and audio recording  
 **Dimensions:** 10 minutes video
@@ -32,15 +31,10 @@ ___
 ## EDGE DETECTION EXPERIMENT 1,
 2018
 
-<img data-src="assets/art_images/ed1/Harrington_04.JPG" alt="Description of the image">
-<img data-src="assets/art_images/ed1/Harrington_05.jpeg" alt="Description of the image">
-<img data-src="assets/art_images/ed1/Harrington_06.JPG" alt="Description of the image">
-<img data-src="assets/art_images/ed1/temp.jpeg" alt="Description of the image">
-
-<!--![](assets/art_images/ed1/Harrington_04.JPG)  
-![](assets/art_images/ed1/Harrington_05.jpeg) 
-![](assets/art_images/ed1/Harrington_06.JPG)  
-![](assets/art_images/ed1/temp.jpeg) --> 
+![](assets/art_images/ed1/Harrington_04.JPG){: loading="lazy" }  
+![](assets/art_images/ed1/Harrington_05.jpeg){: loading="lazy" } 
+![](assets/art_images/ed1/Harrington_06.JPG){: loading="lazy" }  
+![](assets/art_images/ed1/temp.jpeg){: loading="lazy" } 
 
 **Materials:** Cell Image Library, Acrylic sheets, Molotow One4All Markers, cardboard  
 
@@ -53,15 +47,12 @@ I performed an edge detection algorithm by applying an edge detection filter to 
 ## EDGE DETECTION EXPERIMENT 2
 2018
 
-<img data-src="assets/art_images/ed2/Harrington_09.jpeg" alt="Description of the image">
-<img data-src="assets/art_images/ed2/Harrington_10.JPG" alt="Description of the image">
-
-<!--![](assets/art_images/ed2/Harrington_09.jpeg) 
-![](assets/art_images/ed2/Harrington_10.JPG)  -->
+![](assets/art_images/ed2/Harrington_09.jpeg){: loading="lazy" } 
+![](assets/art_images/ed2/Harrington_10.JPG){: loading="lazy" }
 
 
 ---
-![](assets/Harrington_06.jpg)  
-![](assets/Harrington_09.jpg)  
-![](assets/Harrington_10.jpg)  
-![](assets/Harrington_22_1.jpg)
+![](assets/Harrington_06.jpg){: loading="lazy" }  
+![](assets/Harrington_09.jpg){: loading="lazy" }  
+![](assets/Harrington_10.jpg){: loading="lazy" }  
+![](assets/Harrington_22_1.jpg){: loading="lazy" }
