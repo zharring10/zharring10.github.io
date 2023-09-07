@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: Zoe Harrington
 description: Personal website
 favicon: /assets/favicon_initials.ico
+url: 'https://zharring10.github.io/' # your main domain
+baseurl: 'zharring10.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
 ##google_analytics:
