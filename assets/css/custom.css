@@ -24,6 +24,12 @@
   color: #000000;  /*Text color*/
 }
 
+/* Style the <p> element within .side-links */
+.side-links p {
+  display: block; /* Ensure it's displayed as a block element */
+  color: #000; /* Set the text color to your desired color */
+}
+
 /* HEADER LINK */
 
 /* Style the header link like an h1 */
