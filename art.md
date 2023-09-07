@@ -6,11 +6,9 @@ permalink: /art
 
 ## \[Archive\] Art Portfolio
 
-[](assets/art_images/exhibitions/Final_Review(2).jpg)
+[Gallery View](assets/art_images/exhibitions/Final_Review2.jpg)
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
-
-<img data-src="assets/art_images/exhibitions/Final_Review(2).jpg" alt="Description of the image">
 
 ---  
 
