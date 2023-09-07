@@ -4,9 +4,9 @@ title: Art
 permalink: /art
 ---
 
-[](assets/art_images/exhibitions/Final_Review(2).jpg){: loading="lazy" }
-
 ## \[Archive\] Art Portfolio
+
+[](assets/art_images/exhibitions/Final_Review(2).jpg)
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
 
