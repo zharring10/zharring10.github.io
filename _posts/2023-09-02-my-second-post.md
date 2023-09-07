@@ -7,10 +7,10 @@ categories: [blog]
 ## EDGE DETECTION EXPERIMENT 1,
 2018
 
-![](assets/art_images/ed1/Harrington_04.JPG){: loading="lazy" }  
-![](assets/art_images/ed1/Harrington_05.jpeg){: loading="lazy" } 
-![](assets/art_images/ed1/Harrington_06.JPG){: loading="lazy" }  
-![](assets/art_images/ed1/temp.jpeg){: loading="lazy" } 
+![](../assets/art_images/ed1/Harrington_04.JPG)
+![](../assets/art_images/ed1/Harrington_05.jpeg)
+![](../assets/art_images/ed1/Harrington_06.JPG) 
+![](../assets/art_images/ed1/temp.jpeg)
 
 **Materials:** Cell Image Library, Acrylic sheets, Molotow One4All Markers, cardboard  
 

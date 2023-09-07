@@ -7,8 +7,8 @@ categories: [blog]
 ## You're Welcome,
 2019 
 
-![](assets/art_images/y_welcome/Harrington_19.JPG){: loading="lazy" }  
-![](assets/art_images/y_welcome/Harrington_21.jpeg){: loading="lazy" }
+![](../assets/art_images/y_welcome/Harrington_19.JPG){: loading="lazy" }  
+![](../assets/art_images/y_welcome/Harrington_21.jpeg){: loading="lazy" }
 
 **Materials:** pen, paper, bench, rejected sketches, shelf, sketchbook, video and audio recording  
 **Dimensions:** 10 minutes video
