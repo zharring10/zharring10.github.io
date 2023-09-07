@@ -1,24 +1,10 @@
 ---
 layout: default
 title: Art
-permalink: /art/
+permalink: /art
 ---
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const lazyImages = document.querySelectorAll("img[data-src]");
-
-    lazyImages.forEach((img) => {
-      img.src = img.getAttribute("data-src");
-      img.onload = function () {
-        img.removeAttribute("data-src");
-      };
-    });
-  });
-</script>
-
-<img data-src="assets/art_images/exhibitions/Final_Review(2).jpg" alt="Description of the image">
-
+[](assets/art_images/exhibitions/Final_Review(2).jpg){: loading="lazy" }
 
 ## \[Archive\] Art Portfolio
 
