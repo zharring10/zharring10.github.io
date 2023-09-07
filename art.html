@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+    <link rel="icon" href="{{ site.baseurl }}/assets/favicon_initials.ico">
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ site.baseurl }}/index.html" class="header-link"> Zoe Harrington </a></h1>
+
+        {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        {% endif %}
+        
+        <div class="side-links">
+          <a href="{{ site.baseurl }}/science/"> Science </a> <br>
+          <a href="{{ site.baseurl }}/art.html"> Art </a> <br>
+          <a href="{{ site.baseurl }}/cv/"> CV </a> <br>
+          <a href="{{ site.baseurl }}/contact/"> Contact </a> <br>
+        </div>  
+
+        <!--
+        {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+        -->
+
+      </header>
+      <section>
+        <h1>GitHub Flavored Markdown</h1>
+
+        <p><em>View the <a href="http://github.github.com/github-flavored-markdown/sample_content.html">source of this content</a>.</em></p>
+
+        <p>Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:</p>
+
+        <p>Roses are red<br>
+        Violets are blue</p>
+
+        <p>The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:</p>
+
+        <p>Roses are red<br><br>
+        Violets are blue</p>
+    </section>
+
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>
