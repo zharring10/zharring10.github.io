@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}";  /* we're importing from the theme specified in the _config.yml file */
 html {
   font-family: font-family;
   font-size:   20px;
