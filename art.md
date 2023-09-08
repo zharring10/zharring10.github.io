@@ -6,7 +6,11 @@ permalink: /art/
 
 ## \[Archive\] Art Portfolio
 
-
+![Gallery View](assets/art_images/ed1/Final_Review1web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_04web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
 
 <!--![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg){: loading="lazy" }-->
 
