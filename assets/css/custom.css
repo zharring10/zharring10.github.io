@@ -27,6 +27,7 @@
 .side-links p {
   display: block; /* Ensure it's displayed as a block element */
   color: #000; /* Set the text color to your desired color */
+  font-size: 15px;
 }
 
 /* HEADER LINK */
