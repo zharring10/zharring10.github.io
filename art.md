@@ -12,7 +12,9 @@ permalink: /art/
 ![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
 ![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
 
-<!--![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg){: loading="lazy" }-->
+<!--
+![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg){: loading="lazy" }
+-->
 
 **Disclaimer:** This is a backup of my undergraduate art portfolio.
 
@@ -56,9 +58,8 @@ I performed an edge detection algorithm by applying an edge detection filter to 
 ![](assets/art_images/ed2/Harrington_09.jpeg){: loading="lazy" } 
 ![](assets/art_images/ed2/Harrington_10.JPG){: loading="lazy" }
 
-
----
 ![](assets/Harrington_06.jpg){: loading="lazy" }  
 ![](assets/Harrington_09.jpg){: loading="lazy" }  
 ![](assets/Harrington_10.jpg){: loading="lazy" }  
-![](assets/Harrington_22_1.jpg){: loading="lazy" }-->
+![](assets/Harrington_22_1.jpg){: loading="lazy" } 
+-->
