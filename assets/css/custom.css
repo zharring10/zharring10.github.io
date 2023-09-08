@@ -13,7 +13,7 @@
 
 /* Style the navigation links */
 .side-links a {
-  color: #000000;  /*Text color*/
+  color: #000000 !important; /*Text color*/
   text-decoration: none; /* Remove underline */
 }
 
