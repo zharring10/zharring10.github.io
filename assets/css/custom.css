@@ -8,12 +8,12 @@
 /*  background-color: #333;  Background color */
 /*  padding: 20px;  Add some space around the links */
   color: #000000;  /*Text color*/
-  font-size: 30px; 
 }
 
 /* Style the navigation links */
 .side-links a {
   color: #000000 !important; /*Text color*/
+  font-size: 30px; 
   text-decoration: none; /* Remove underline */
 }
 
