@@ -5,12 +5,56 @@ permalink: /art/
 ---
 
 ## \[Archive\] Art Portfolio
-
+25
 ![Gallery View](assets/art_images/ed1/Final_Review1web.jpg)
 ![Gallery View](assets/art_images/ed1/Harrington_04web.jpg)
 ![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
 ![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
 ![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+20
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+10
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+30
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+40
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+![Gallery View](assets/art_images/ed1/Harrington_05web.jpg)
+50
 
 <!--
 ![Gallery View](assets/art_images/exhibitions/Final_Review2.jpg){: loading="lazy" }
