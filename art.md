@@ -29,12 +29,12 @@ Diálogos, public group exhibition, Havana, Cuba
 2015  
 [Senior Art Show](https://uwcrcn.no/art-exhibition/), Høegh, United World College Red Cross Nordic, Norway  
 
+![](assets/art_images/exhibitions/Final_Review2web.jpg)
+
 Work Experience  
 09.2017 – 12.2017  
 Digital Media Intern, [Whitney Museum of American Art](https://whitney.org/){:target="_blank"}, New York City
 Studio Assistant, [Harvestworks](https://www.harvestworks.org/){:target="_blank"}, New York City
-
-![](assets/art_images/exhibitions/Final_Review2web.jpg)
 
 ---  
 
@@ -52,7 +52,7 @@ Video available at: https://watzek.lclark.edu/seniorprojects/items/show/1142
 
 ---
 
-## EDGE DETECTION EXPERIMENT 1 (2018)
+## Edge Detection Experiment 1 (2018)
 
 ![](assets/art_images/ed1/Harrington_04web.jpg)
 ![](assets/art_images/ed1/Harrington_05web.jpg)
@@ -67,7 +67,7 @@ I performed an edge detection algorithm by applying an edge detection filter to 
 
 ---
 
-## EDGE DETECTION EXPERIMENT 2 (2018)
+## Edge Detection Experiment 2 (2018)
 
 ![](assets/art_images/ed2/Harrington_09web.jpg)
 ![](assets/art_images/ed2/Harrington_10web.jpg)
@@ -144,7 +144,7 @@ If you receive the same description twice in a row, pick one of the prompts gene
 
 ---
 
-## ALL WE NEED IS LOVE كل ما تحتاجه هو الحب ♥   (2017)
+## All We Need Is Love كل ما تحتاجه هو الحب ♥   (2017)
 
 ![](assets/art_images/screenprint/Harrington_22_1.jpg)
 
