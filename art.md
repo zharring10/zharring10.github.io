@@ -59,3 +59,13 @@ The process of creating this piece was similar to the process used for Edge Dete
   <img src="assets/art_images/y_welcome/web2e26205e-36b1-4b2b-b896-e67d289d63bb_rw_3840.jpg" alt="Image 1">
   <img src="assets/art_images/y_welcome/web36b7d088-0c34-4c31-bb20-d90f7a31a5a1_rw_3840.jpg" alt="Image 2">
 </div>
+
+<style>
+  .image-container {
+    display: flex;
+  }
+
+  .image-container img {
+    margin-right: 10px; /* Add spacing between images if needed */
+  }
+</style>
