@@ -5,11 +5,33 @@ permalink: /art/
 ---
 
 ## \[Archive\] Art Portfolio
+
 **Disclaimer:** This is a backup of my undergraduate art portfolio. I may upload more recent work soon.
 
 ---
 
-Exhibition photos
+## Artists Bio
+
+Zoe Harrington is an artist interested in (artificial) intelligence and decision making. Her work often involves collaboration with other human beings or generative technology. Finding a sense of self through observing interactions with others and exposing oneself to discomfort are central themes in her work. Zoe uses her background in drawing and programming to create interdisciplinary pieces, for example by performing the steps of an edge detection algorithm or creating collaborative drawings using the Google Quick Draw database.  
+Her work has been shown in group shows at the Ronna and Eric Hoffman Gallery, Portland, Oregon, at Liebig 12, Berlin, Germany, and in Havana, Cuba. Zoe holds a B.A. in Studio Art and Computer Science & Math from Lewis & Clark College in Portland, Oregon and is currently based in Berlin and Vienna.  
+
+## Exhibitions
+
+2019      Over Easy, Ronna and Eric Hofman Gallery, Portland, Oregon, USA  
+          Over Done, Fields Center for Visual Arts, Lewis & Clark College  
+2018      We Don’t Know Where This Is Going, Liebig 12, Berlin, Germany  
+          Traveling Bookcase Show, Lewis & Clark College  
+2017      Diálogos, Yale Union, Portland, Oregon, USA  
+          Diálogos, public group exhibition, Havana, Cuba  
+2015      Senior Art Show, Høegh, United World College Red Cross Nordic, Norway
+
+Work Experience
+09.2017 – 12.2017       Whitney Museum of American Art, New York City
+                                       Digital Media Intern
+09.2017 – 12.2017       Harvestworks, New York City
+                                       Studio Assistant 
+
+![](assets/art_images/exhibitions/Final_Review2web.jpg)
 
 ---  
 
@@ -29,9 +51,9 @@ Video available at: https://watzek.lclark.edu/seniorprojects/items/show/1142
 
 ## EDGE DETECTION EXPERIMENT 1 (2018)
 
-![](assets/art_images/ed1/Harrington_04web.jpg)  
-![](assets/art_images/ed1/Harrington_05web.jpg) 
-![](assets/art_images/ed1/Harrington_06web.jpg)  
+![](assets/art_images/ed1/Harrington_04web.jpg)
+![](assets/art_images/ed1/Harrington_05web.jpg)
+![](assets/art_images/ed1/Harrington_06web.jpg)
 ![](assets/art_images/ed1/tempweb.jpg)
 ![Gallery View](assets/art_images/ed1/Final_Review1web.jpg)
 
@@ -123,5 +145,7 @@ If you receive the same description twice in a row, pick one of the prompts gene
 
 ![](assets/art_images/screenprint/Harrington_22_1.jpg)
 
-**Materials:** Screenprint on paper
+**Materials:** Screenprint on paper  
 **Dimensions:** 8.27'' x 11.69''
+
+--- 
