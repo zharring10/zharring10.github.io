@@ -56,5 +56,6 @@ permalink: /cv/
 
 since 11.2022 Mentor, [Cybermentor](https://www.cybermentor.de/index.php){:target="_blank"}  
 2022 Volunteer, [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/){:target="_blank"}
+2021, Proofreader/Editor, ["Wenn KI, dann feministisch](https://netzforma.org/wp-content/uploads/2021/01/2020_wenn-ki-dann-feministisch_netzforma.pdf){:target="_blank"} (in German)        I proofread two texts for this publication about feminist perspectives on AI
 
 
