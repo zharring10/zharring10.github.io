@@ -29,7 +29,7 @@ permalink: /cv/
 2016 2nd place [WeCodeHackathon Portland](https://we-code-hackathon-2016.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio){:target="_blank"}  
 2015 - 2019 [Dean's List](https://college.lclark.edu/dean/deans-list/){:target="_blank"} (7 semesters)  
 2015 - 2019 Scholarship from [Davis UWC Scholars Program](https://www.davisuwcscholars.org/){:target="_blank"}  
-2015 selected by UWCRCN to speak in a panel discussion at [EdTech Europe 2015](https://uwcrcn.no/edtech-global-foundation/){:target="_blank"}  
+2015 selected by UWCRCN to speak in a panel discussion at [EdTech Europe](https://uwcrcn.no/edtech-global-foundation/){:target="_blank"}  
 2013 - 2015 Scholarship from Deutsche Stiftung UWC for [UWCRCN](https://uwcrcn.no){:target="_blank"}  
 
 ### <ins>Courses</ins>
