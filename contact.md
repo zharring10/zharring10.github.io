@@ -12,7 +12,7 @@ You can find me on:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zoeharring10)  
 [![Mastodon](https://img.shields.io/badge/Mastodon-your-username-green?logo=mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@your-mastodon-username)  
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=for-the-badge)](https://github.com/zpmh)  
-[![Google Scholar](https://img.shields.io/badge/GoogleScholar-lightgray?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_USER_ID)  
+[![Google Scholar](https://img.shields.io/badge/GoogleScholar-lightgray?style=wide-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_USER_ID)  
   
 or send an e-mail to: **zoe.harrington@ista.ac.at**
 
