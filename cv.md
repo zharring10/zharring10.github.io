@@ -58,12 +58,12 @@ permalink: /cv/
 ### <ins>Community Contributions</ins>
 
 since 11.2022 Mentor, [Cybermentor](https://www.cybermentor.de/index.php){:target="_blank"}  
-2022 Volunteer, [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/){:target="_blank"}
+2022 Volunteer, [Bernstein Conference](https://bernstein-network.de/en/bernstein-conference/){:target="_blank"}  
 2021 Presenter, [Girls Day, BCCN Berlin](https://www.bccn-berlin.de/events-list/girls-day-2021.html){:target="_blank"}  
 2021, Editor/Proofreading, ["Wenn KI, dann feministisch](https://netzforma.org/wp-content/uploads/2021/01/2020_wenn-ki-dann-feministisch_netzforma.pdf){:target="_blank"} (in German)
 
 ### <ins>Other Activities and Engagements</ins>
-Mentee, Fraunhofer Institut josephine mentoring (https://www.iis.fraunhofer.de/de/jobs/mentoring-studentinnen.html){:target="_blank"}  
+Mentee, Fraunhofer Institut josephine mentoring (https://www.iis.fraunhofer.de/de/jobs/mentoring-studentinnen.html){:target="_blank"}    
 Mentee, NYAS STEM mentoring  
 Participant, Dubhacks 2018 (https://dubhacks-main-page.webflow.io/){:target="_blank"}  
 2023 Attended, (https://motor-circuits.wp.st-andrews.ac.uk/){:target="_blank"}  
