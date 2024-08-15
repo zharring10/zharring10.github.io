@@ -63,6 +63,6 @@ since 11.2022 Mentor, [Cybermentor](https://www.cybermentor.de/index.php){:targe
 2021, Editor/Proofreading, ["Wenn KI, dann feministisch](https://netzforma.org/wp-content/uploads/2021/01/2020_wenn-ki-dann-feministisch_netzforma.pdf){:target="_blank"} (in German)
 
 ### <ins>Other Activities and Engagements</ins>
-Mentee, Fraunhofer Institut josephine mentoring [(https://www.iis.fraunhofer.de/de/jobs/mentoring-studentinnen.html)]{:target="_blank"}    
+Mentee, [Fraunhofer Institut josephine mentoring](https://www.iis.fraunhofer.de/de/jobs/mentoring-studentinnen.html){:target="_blank"}    
 Mentee, NYAS STEM mentoring  
-Participant, Dubhacks 2018 [(https://dubhacks-main-page.webflow.io/)]{:target="_blank"}  
+Participant, [Dubhacks 2018](https://dubhacks-main-page.webflow.io/){:target="_blank"}  
