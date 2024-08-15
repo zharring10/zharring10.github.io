@@ -5,6 +5,7 @@ permalink: /blog/
 ---
 <h1>{{ page.title }}</h1>
 
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -14,3 +15,4 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
+-->
