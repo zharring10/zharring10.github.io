@@ -57,11 +57,11 @@ a:hover {
   font-size: inherit; /* Prevents font size from changing on hover */
 }
 
-body a {
+/* body a {
   font-size: inherit;
 }
 
 body a:hover {
   font-size: inherit;
-}
+} */
 
