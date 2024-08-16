@@ -47,4 +47,21 @@
   /* You can add additional styles here if needed */
 }
 
+/* trying to remove fontsize change when hovering over links */
+
+a {
+  font-size: inherit; /* Ensures font size is consistent */
+}
+
+a:hover {
+  font-size: inherit; /* Prevents font size from changing on hover */
+}
+
+body a {
+  font-size: inherit;
+}
+
+body a:hover {
+  font-size: inherit;
+}
 
