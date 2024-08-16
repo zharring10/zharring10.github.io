@@ -4,4 +4,6 @@ I am a first-year PhD student with the Vogels group at [IST Austria](https://ist
 
 **News**
 
-I officially affiliated with the Vogels group. Excited for the next few years!
+16/08/24 My poster abstract was accepted to the Bernstein Conference 2024. See you in Frankfurt!
+
+06/07/24 I officially affiliated with the Vogels group. Excited for the next few years!
