@@ -1,6 +1,7 @@
 ![](assets/IMG_7499.jpg)
 
-I am currently investigating functional roles of plasticity rules for learning and memory in spiking neural networks. Prior to joining ISTA to complete my masters thesis, I studied and worked at the Bernstein Center for Computational Neuroscience in Berlin. My current interest are meta-plasticity, dynamical systems and..
+I am currently investigating functional roles of plasticity rules for learning and memory in spiking neural networks. 
+Prior to joining ISTA to complete my masters thesis, I studied and worked at the Bernstein Center for Computational Neuroscience in Berlin. My current interest are meta-plasticity, dynamical systems and..
 
 **News**
 
