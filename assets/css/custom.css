@@ -18,9 +18,9 @@
 }
 
 /* Style the navigation links on hover */
-/*.side-links a:hover {
+.side-links a:hover {
   text-decoration: underline; /* Add underline on hover */
-  /*color: #000000;  /*Text color*/
+  color: #000000;  /*Text color*/
 }
 
 /* Style the <p> element within .side-links */
