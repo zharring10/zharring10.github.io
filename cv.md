@@ -9,7 +9,7 @@ permalink: /cv/
 ### <ins>Education</ins>
 
 **Institute of Science and Technology Austria (ISTA)**, Vienna, Austria  
-**since 2023 Ph.D.** candidate with the Vogels group 
+**since 2023 Ph.D.** with the Vogels group 
 
 **Bernstein Center for Computational Neuroscience**, Berlin, Germany  
 **2019 - 2023 M.Sc.** Computational Neuroscience
