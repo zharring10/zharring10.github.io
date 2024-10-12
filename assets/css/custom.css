@@ -13,8 +13,8 @@
 /* Style the navigation links */
 .side-links a {
   color: #000000 !important; /*Text color*/
-  font-size: 30px; 
-  text-decoration: none; /* Remove underline */
+  /*font-size: 30px; */
+  /*text-decoration: none;*/ /* Remove underline */
 }
 
 /* Style the navigation links on hover */
@@ -27,7 +27,7 @@
 .side-links p {
   display: block; /* Ensure it's displayed as a block element */
   color: #000; /* Set the text color to your desired color */
-  font-size: 15px;
+  /*font-size: 15px;*/
 }
 
 /* HEADER LINK */
