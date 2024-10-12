@@ -9,7 +9,7 @@ permalink: /cv/
 ### <ins>Education</ins>
 
 **Institute of Science and Technology Austria (ISTA)**, Vienna, Austria  
-**since 2023 Ph.D.** candidate 
+**since 2023 Ph.D.** candidate with the Vogels group 
 
 **Bernstein Center for Computational Neuroscience**, Berlin, Germany  
 **2019 - 2023 M.Sc.** Computational Neuroscience
@@ -19,7 +19,6 @@ permalink: /cv/
 
 ### <ins>Awards and Fellowships</ins>
 2022 [DAAD IFI Master's Thesis Grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
-2021 <a href="https://phd.pages.ist.ac.at/isternship/" style="font-size: inherit;" target="_blank">ISTernship</a>  
 2021 [ISTernship](https://phd.pages.ist.ac.at/isternship/){:target="_blank"}  
 2019 - 2021 Scholarship from TU Berlin ([Deutschlandstipendium](https://www.tu.berlin/en/careerservice/recruiting/deutschlandstipendium){:target="_blank"})  
 2018 [CRA-WP GHC Research Scholarship](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/){:target="_blank"}  
