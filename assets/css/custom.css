@@ -13,14 +13,14 @@
 /* Style the navigation links */
 .side-links a {
   color: #000000 !important; /*Text color*/
-  /*font-size: 30px; */
-  /*text-decoration: none;*/ /* Remove underline */
+  font-size: 30px; 
+  text-decoration: none; /* Remove underline */
 }
 
 /* Style the navigation links on hover */
-.side-links a:hover {
+/*.side-links a:hover {
   text-decoration: underline; /* Add underline on hover */
-  color: #000000;  /*Text color*/
+  /*color: #000000;  /*Text color*/
 }
 
 /* Style the <p> element within .side-links */
