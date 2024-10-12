@@ -17,6 +17,12 @@ permalink: /cv/
 **Lewis & Clark College**, Portland, OR, USA  
 **2015 - 2019 B.A.** Mathematics & Computer Science, Studio Art
 
+### <ins>Publications</ins>
+
+
+### <ins>Poster Presentations</ins>
+
+
 ### <ins>Awards and Fellowships</ins>
 2022 [DAAD IFI Master's Thesis Grant](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/){:target="_blank"}  
 2021 [ISTernship](https://phd.pages.ist.ac.at/isternship/){:target="_blank"}  
